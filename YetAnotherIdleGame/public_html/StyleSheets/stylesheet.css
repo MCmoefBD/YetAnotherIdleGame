@@ -1,0 +1,146 @@
+
+.body{
+background-color: #000000;
+}
+.i1{
+        background-color: #959595;
+    width:21em;
+    position: relative;
+    left:35em;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.i2{
+    background-color: #959595;
+    width:21em;
+    position: relative;
+    left:35em;
+    border-radius: 5px;
+    top: 1em;
+    text-align: center;
+}
+.i3{
+    background-color: #959595;
+    width:21em;
+    position: relative;
+    left:35em;
+    border-radius: 5px;
+    top: 2em;
+    text-align: center;
+}
+.i4{
+    background-color: #959595;
+    width:21em;
+    position: relative;
+    left:35em;
+    border-radius: 5px;
+    top: 3em;
+    text-align: center;
+}
+.Manual{
+    background-color: #959595;
+    width:21em;
+    position: relative;
+    left:35em;
+    border-radius: 5px;
+    top: 4em;
+    text-align: center;
+    Height: 2em;
+}
+.navbar{
+    width: 20em;
+    position: relative;
+    top:0.5em;
+    border-radius: 10px;
+}
+.MainDiv {
+    background-color: #c4c4c4;
+    font-size: 20px;
+    color: red;
+    border-radius: 5px;
+    width: 50em;
+    height: 2em;
+}
+.babe{
+    background-color: red;
+    width: 10em;
+    border-radius: 10px;
+}
+.body{
+    background-color: #ebebeb;
+}
+
+.button{
+    position: relative;
+    display: block;
+    top: 10px;
+}
+
+.Tick{
+    position: relative;
+    display: block;
+    top: 5px;  
+    left: 5px;
+}
+
+.add{
+    position: relative;
+    display: block;
+    top: 20px;
+}
+.counter{
+   background-color: blue; 
+   display: block;
+   position: relative;
+   top:30px;
+   width: 100px;
+   border-radius: 10px;
+   color: red;
+   text-align: center;
+}
+.BuyBoost{
+    display: block;
+    position: relative;
+    left: -30px;
+    top: 10px;
+}
+.PriceA{
+    display: block;
+    
+    width: 75px;
+    border-radius: 10px;
+    position: relative;
+    top: -12px;
+    left: 50px;
+    text-align: center;
+}
+.Save{
+    display: none;
+    position: relative;
+    top:50px;
+}
+.Load{
+    display: none;
+    position: relative;
+    top: 60px;
+}
+
+.shop{
+    width: 17em;  
+ 
+}
+
+.butt{
+    position: relative;
+}
+
+.cont{
+       background-color: red;
+        border-radius: 10px;
+}
+.Man{
+    position: relative;
+    left: 5em;
+    top: -1.8em;
+}
